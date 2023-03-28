@@ -1,5 +1,6 @@
  <div align="center">
- <h1> <img src="https://i.imgur.com/Q4iT3Jf.png" width="250px"><br/>Formação Python Developer</h1>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ <h1><br/>Formação Python Developer</h1>
      </div>
 
 
