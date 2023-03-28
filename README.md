@@ -2,10 +2,10 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,flask,mongodb,sqlite" />
+   <h1>Formação Python Developer</h1>
   </a>
 </p
- <div align="center"><h1>Formação Python Developer</h1>
-     </div>
+
 
 
 # Descrição
