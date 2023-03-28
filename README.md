@@ -1,5 +1,9 @@
- <img src="https://i.imgur.com/rGZ73Fv.png">
-  <p align="center">
+<div align="center">
+ <h1> <img src="https://i.imgur.com/rGZ73Fv.png" width="500px"><br/>Curso de
+Algoritmos</h1>
+     </div>
+     
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,flask,mongodb,sqlite" />
    <h1><center>Formação Python Developer</center></h1>
