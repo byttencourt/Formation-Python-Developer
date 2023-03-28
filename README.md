@@ -1,7 +1,7 @@
- 
+ <img src="https://i.imgur.com/rGZ73Fv.png">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,mongodb,sqlite" />
   </a>
 </p
  <div align="center"><h1><br/>Formação Python Developer</h1>
@@ -17,8 +17,7 @@ Com uma grande versatilidade, vasta documentação e inúmeras bibliotecas fazem
 Modele seu banco de dados com a ferramenta do Sqlalchemy e crie aplicações ainda mais ricas com persistência de dados com MongoDB utilizando a biblioteca do Pymongo..
 
 # Screenshots
- <img src="https://i.imgur.com/rGZ73Fv.png">
- <img src="https://i.imgur.com/uaOn9dC.png"> 
+  <img src="https://i.imgur.com/uaOn9dC.png"> 
  <!--
  <img src="https://i.imgur.com/gJlsuu6.png">
  <img src="https://i.imgur.com/KPmlocf.png"> 
