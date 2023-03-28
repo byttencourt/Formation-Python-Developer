@@ -13,7 +13,7 @@ Modele seu banco de dados com a ferramenta do Sqlalchemy e crie aplicações ain
 
 # Screenshots
  <img src="https://i.imgur.com/rGZ73Fv.png">
- <img src="https://i.imgur.com/vI3ntM2.png"> 
+ <img src="https://i.imgur.com/uaOn9dC.png"> 
  <!--
  <img src="https://i.imgur.com/gJlsuu6.png">
  <img src="https://i.imgur.com/KPmlocf.png"> 
