@@ -15,9 +15,16 @@ class Foo:
         self._x = 0
 
 
-foo = Foo(10)
-print(foo.x)
-del foo.x
-print(foo.x)
-foo.x = 10
-print(foo.x)
+#foo = Foo(10)
+#print(foo.x)
+#del foo.x
+#print(foo.x)
+#foo.x = 10
+#print(foo.x)
+
+nino = Foo(10)
+print(nino.x)
+del nino.x
+print(nino.x)
+Foo.x = 500
+print(nino.x)

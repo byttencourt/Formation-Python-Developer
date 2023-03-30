@@ -26,3 +26,8 @@ def plano_voo(obj):
 plano_voo(Pardal())
 plano_voo(Avestruz())
 plano_voo(Aviao())
+#lista = [1, 2, 3]
+#print(len('python'))
+#print(len(['1', '2', '3']))
+#if 2 in lista:
+#    print(f'existe {2}')
