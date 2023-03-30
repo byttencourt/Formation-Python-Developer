@@ -11,7 +11,7 @@
 
 
 # Descrição
-Python Formation Developer é um BootCamp com 64 horas de conteúdo focado na formação profissional.
+Formação Python Developer é um BootCamp com 64 horas de conteúdo focado na formação da carreira profissional.
 
 # Características
 Com uma grande versatilidade, vasta documentação e inúmeras bibliotecas fazem do Python a primeira escolha na área de dados. Contudo, Python não se limita à dados, podendo ser aplicado a games, aplicações web, automatização de tarefas e muito mais! Aprenda do zero da sintaxe básica da linguagem até integrações com APIs e projetos práticos explorando os principais frameworks como Flask e Django.
