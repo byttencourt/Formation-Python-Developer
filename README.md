@@ -11,12 +11,21 @@
 
 
 # Descrição
-Python é uma das linguagens de programação mais utilizadas no mercado nacional e internacional. Sendo uma das principais tecnologias de empresas como Globo, Instagram, Amazon e Google.
+Python Formation Developer é um BootCamp com 64 horas de conteúdo focado na formação profissional.
 
 # Características
 Com uma grande versatilidade, vasta documentação e inúmeras bibliotecas fazem do Python a primeira escolha na área de dados. Contudo, Python não se limita à dados, podendo ser aplicado a games, aplicações web, automatização de tarefas e muito mais! Aprenda do zero da sintaxe básica da linguagem até integrações com APIs e projetos práticos explorando os principais frameworks como Flask e Django.
 
 Modele seu banco de dados com a ferramenta do Sqlalchemy e crie aplicações ainda mais ricas com persistência de dados com MongoDB utilizando a biblioteca do Pymongo..
+
+Atividades e Conteúdos:
+
+- Fundamentos.
+- Estrutura de Dados.
+- Programação Orientada a Objeto POO.
+- Integração com Frameworks: SqlAlchemy, Pymongo, SQLite, MongoDB, Django, Flask.
+- Tratamento de dados Fundamentos ETL, Segurança da Informação. Análise de Dados.
+- Desenvolvimento Web e Rest APIs.
 
 # Screenshots
   <img src="https://i.imgur.com/uaOn9dC.png"> 
