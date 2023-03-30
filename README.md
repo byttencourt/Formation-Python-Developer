@@ -27,6 +27,8 @@ Atividades e Conteúdos:
 - Tratamento de dados Fundamentos ETL, Segurança da Informação. Análise de Dados.
 - Desenvolvimento Web e Rest APIs.
 
+# Techs Used
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # Screenshots
   <img src="https://i.imgur.com/uaOn9dC.png"> 
  <!--
@@ -39,5 +41,10 @@ Atividades e Conteúdos:
 100% Aproveitamento
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
 
-Ps: Agradecimento especial ao Gustavo Guanabara por compartilhar seu conhecimento e a maestria em Ensinar.      
- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+
+
+
+ 
+
+      
+
