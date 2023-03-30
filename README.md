@@ -2,11 +2,11 @@
  <h1> <img src="https://i.imgur.com/rGZ73Fv.png" width="800px"><br/>Formação Python Developer</h1>
      </div>
      
- <p align="center">
+  <!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,flask,mongodb,sqlite" />
   </a>
-</p
+</p-->
 
 
 
@@ -33,7 +33,7 @@ Atividades e Conteúdos:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="96" width="96px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="96" width="96px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="96" width="96px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="96" width="96px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="96" width="96px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="96" width="96px"/>
 
 # Screenshots
