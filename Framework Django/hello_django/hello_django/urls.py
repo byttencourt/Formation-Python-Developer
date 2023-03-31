@@ -1,4 +1,4 @@
-"""hello URL Configuration
+"""hello_django URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
@@ -16,11 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from core import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('hello/<nome>/<int:idade>', views.hello),
-    path('soma/<n1>/<n2>', views.soma),
+    path('soma/<int:n1>/<int:n2>', views.soma),
     path('subtracao/<int:n1>/<int:n2>', views.subtracao),
     path('multiplicacao/<int:n1>/<int:n2>', views.multiplicacao),
-    path('divisao/<int:n1>/<int:n2>', views.divisao)
+    path('divisao/<int:n1>/<int:n2>', views.divisao),
 ]
