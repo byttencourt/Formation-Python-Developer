@@ -1,8 +1,7 @@
 {% extends "model-page.html" %}
 
 {% block content %}
-<div align="center">
-    <h2>Evento</h2>
+<h2>Evento</h2>
     <form action="submit" method="POST">{% csrf_token %}
         <label>Titulo</label>
         <input type="number" name="id_evento" value="{{ evento.id }}" hidden>
@@ -27,7 +26,6 @@
             <button type="button">cancelar</button>
         </a>
     </form>
-</div>
 
 
 {% endblock %}
